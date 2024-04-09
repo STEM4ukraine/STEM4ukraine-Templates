@@ -1,0 +1,9 @@
+ha:std_devmap.v1 {
+	ha:comp_attribs {
+		footprint=3mmLEDbackplane-annotated.rf
+		li:portmap={
+			{C->pcb/pinnum=1}
+			{A->pcb/pinnum=2}
+		}
+	}
+}
